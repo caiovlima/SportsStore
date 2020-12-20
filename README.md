@@ -10,24 +10,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/caiovlima/SportStore">
+  <a href="https://github.com/caiovlima/SportsStore">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">SportStore</h3>
+  <h3 align="center">SportsStore</h3>
 
   <p align="center">
     This repository contains some projects i've been creat to study some tecnologys has available in educational
     online platform <a href="https://www.apress.com/br/book/9781484231494"><strong>Pro ASP.Net core MVC 7th Edition </strong></a>
     <br />
-    <a href="https://github.com/caiovlima/SportStore"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/caiovlima/SportsStore"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/caiovlima/SportStore">View Demo</a>
+    <a href="https://github.com/caiovlima/SportsStore">View Demo</a>
     ·
-    <a href="https://github.com/caiovlima/SportStore/issues">Report Bug</a>
+    <a href="https://github.com/caiovlima/SportsStore/issues">Report Bug</a>
     ·
-    <a href="https://github.com/caiovlima/SportStore/issues">Request Feature</a>
+    <a href="https://github.com/caiovlima/SportsStore/issues">Request Feature</a>
   </p>
 </p>
 
@@ -67,7 +67,7 @@
 The project is a implementation based on e-book [Pro ASP.Net core MVC 7th Edition](https://www.apress.com/br/book/9781484231494) 
 
 
-* [SportStore](https://github.com/caiovlima/SportStore/tree/master/SportStore) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code> 
+* [SportsStore](https://github.com/caiovlima/SportsStore/tree/master/SportsStore) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code> 
 
 
 
@@ -96,7 +96,7 @@ To get a local copy up and running follow these simple steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/caiovlima/SportStore/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/caiovlima/SportsStore/issues) for a list of proposed features (and known issues).
 
 
 
@@ -125,7 +125,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/caiovlima)](https://github.com/caiovlima) · [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioviniciuslima/)](https://www.linkedin.com/in/caioviniciuslima/) · [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contatocaiovlimat@gmail.com)](mailto:contatocaiovlima@gmail.com)
 
-Project Link: [https://github.com/caiovlima/SportStore](https://github.com/caiovlima/SportStore)
+Project Link: [https://github.com/caiovlima/SportsStore](https://github.com/caiovlima/SportsStore)
 
 
 
@@ -140,15 +140,15 @@ Project Link: [https://github.com/caiovlima/SportStore](https://github.com/caiov
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/caiovlima/SportStore.svg?style=for-the-badge
-[contributors-url]: https://github.com/caiovlima/SportStore/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/caiovlima/SportStore.svg?style=for-the-badge
-[forks-url]: https://github.com/caiovlima/SportStore/network/members
-[stars-shield]: https://img.shields.io/github/stars/caiovlima/SportStore.svg?style=for-the-badge
-[stars-url]: https://github.com/caiovlima/SportStore/stargazers
-[issues-shield]: https://img.shields.io/github/issues/caiovlima/SportStore.svg?style=for-the-badge
-[issues-url]: https://github.com/caiovlima/SportStore/issues
-[license-shield]: https://img.shields.io/github/license/caiovlima/SportStore.svg?style=for-the-badge
-[license-url]: https://github.com/caiovlima/SportStore/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/caiovlima/SportsStore.svg?style=for-the-badge
+[contributors-url]: https://github.com/caiovlima/SportsStore/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/caiovlima/SportsStore.svg?style=for-the-badge
+[forks-url]: https://github.com/caiovlima/SportsStore/network/members
+[stars-shield]: https://img.shields.io/github/stars/caiovlima/SportsStore.svg?style=for-the-badge
+[stars-url]: https://github.com/caiovlima/SportsStore/stargazers
+[issues-shield]: https://img.shields.io/github/issues/caiovlima/SportsStore.svg?style=for-the-badge
+[issues-url]: https://github.com/caiovlima/SportsStore/issues
+[license-shield]: https://img.shields.io/github/license/caiovlima/SportsStore.svg?style=for-the-badge
+[license-url]: https://github.com/caiovlima/SportsStore/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/caiovlima
